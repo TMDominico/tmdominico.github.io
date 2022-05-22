@@ -983,7 +983,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/banner.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
@@ -1136,7 +1136,7 @@ h3 {
 .slider_area_inner .slider_text h4 {
   font-size: 18px;
   font-weight: 600;
-  font-family: 'Gootneaeum', cursive;
+  font-family: 'MaruBuri-Regular', cursive;
   color: #fff;
   margin-top: 14px;
 }
@@ -1699,7 +1699,7 @@ h3 {
     padding-bottom: 20px;
   }
   .love_story_area h4{
-  font-size:24px !important;margin-top:25px !important;margin-bottom:60px !important}
+  font-size:20px !important;margin-top:25px !important;margin-bottom:60px !important}
 }
 
 /* line 8, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_story.scss */
@@ -1753,7 +1753,7 @@ h3 {
 }
 
 .love_story_area h4 {
-  font-family: 'Gootneaeum', cursive;
+  font-family: 'MaruBuri-Regular', cursive;
 }
 
 @media (max-width: 767px) {
@@ -1849,71 +1849,71 @@ h3 {
 
 /* line 37, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_1 {
-  background-image: url(../img/gallery/1.png);
+  background-image: url(../img/gallery/1.jpg);
 }
 
 /* line 40, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_2 {
-  background-image: url(../img/gallery/2.png);
+  background-image: url(../img/gallery/2.jpg);
 }
 
 /* line 43, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_3 {
-  background-image: url(../img/gallery/3.png);
+  background-image: url(../img/gallery/3.jpg);
 }
 
 /* line 46, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_4 {
-  background-image: url(../img/gallery/4.png);
+  background-image: url(../img/gallery/4.jpg);
 }
 
 /* line 49, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_5 {
-  background-image: url(../img/gallery/5.png);
+  background-image: url(../img/gallery/5.jpg);
 }
 
 /* line 52, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_6 {
-  background-image: url(../img/gallery/6.png);
+  background-image: url(../img/gallery/6.jpg);
 }
 
 /* line 55, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_7 {
-  background-image: url(../img/gallery/7.png);
+  background-image: url(../img/gallery/7.jpg);
 }
 
 /* line 58, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_8 {
-  background-image: url(../img/gallery/8.png);
+  background-image: url(../img/gallery/8.jpg);
 }
 
 /* line 61, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_imag_9 {
-  background-image: url(../img/gallery/9.png);
+  background-image: url(../img/gallery/9.jpg);
 }
 
 .gallery_imag_10 {
-  background-image: url(../img/gallery/10.png);
+  background-image: url(../img/gallery/10.jpg);
 }
 
 .gallery_imag_11 {
-  background-image: url(../img/gallery/11.png);
+  background-image: url(../img/gallery/11.jpg);
 }
 
 .gallery_imag_12 {
-  background-image: url(../img/gallery/12.png);
+  background-image: url(../img/gallery/12.jpg);
 }
 
 .gallery_imag_13 {
-  background-image: url(../img/gallery/13.png);
+  background-image: url(../img/gallery/13.jpg);
 }
 
 .gallery_imag_14 {
-  background-image: url(../img/gallery/14.png);
+  background-image: url(../img/gallery/14.jpg);
 }
 
 .gallery_imag_15 {
-  background-image: url(../img/gallery/15.png);
+  background-image: url(../img/gallery/15.jpg);
 }
 /* line 65, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
 .gallery_area {
@@ -1936,6 +1936,18 @@ h3 {
   background-position: center center;
   overflow: hidden;
   position: relative;
+}
+
+@media (max-width: 767px) {
+  /* line 65, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
+  .gallery_area .single_gallery {
+    height: 98px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: hidden;
+    position: relative;
+  }
 }
 
 /* line 80, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_gallery.scss */
